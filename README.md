@@ -10,6 +10,7 @@ Rules to remember.
 If you make a mistake, no worries ... learning is what this repository is all about.  And, we'd rather you experimented here than on the main repositories.
 
 Some online resorces to look at:
+- Learn Git Basics in 15 mins: https://try.github.io/levels/1/challenges/1
 - Understanding the GitHub Flow: https://guides.github.com/introduction/flow/
 - Udacity (free) How to Use Git and Git Hub: https://www.udacity.com/course/how-to-use-git-and-github--ud775
 - Learning Enough Git To Be Dangerous: https://www.learnenough.com/git-tutorial
